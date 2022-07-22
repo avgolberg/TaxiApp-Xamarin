@@ -9,5 +9,6 @@ namespace taxiapp
         public const string GoogleMapsApiKey = "AIzaSyDPNosc2HtYgR5mgw8jrJUxZsdj8m4Vlf0";
         public static string jsoncallstring = "";
         public static string jsonstring = "";
+        
     }
 }

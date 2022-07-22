@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "hoh9Er8iirrJvRxAGMR3yxaWMQ1R8C7ABIKs+4rT3Pjt9tguSnEyd7ec3oCQ3WCXqnD7gS2iwqpk6fEn+8CuhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Аленка\\Source\\Repos\\TaxiApp-Xamarin\\taxiapp\\taxiapp\\taxiapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Аленка\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Аленка\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Аленка\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\Аленка\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Аленка\\.nuget\\packages\\xamarin.essentials\\1.0.1\\xamarin.essentials.1.0.1.nupkg.sha512",
+    "C:\\Users\\Аленка\\.nuget\\packages\\xamarin.forms\\3.4.0.1039999\\xamarin.forms.3.4.0.1039999.nupkg.sha512",
+    "C:\\Users\\Аленка\\.nuget\\packages\\xamarin.forms.googlemaps\\3.2.0\\xamarin.forms.googlemaps.3.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+aw4SzOShdghhIchytIIKLkhxyicmVTUxs1csosEoSVP+/1g9KZ2Q85R7mrWBZxNUaotuE+YtDFIPN/2qGj9rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Аленка\\Source\\Repos\\TaxiApp-Xamarin\\taxiapp\\taxiapp.iOS\\taxiapp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Аленка\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\Аленка\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Аленка\\.nuget\\packages\\xamarin.build.download\\0.4.7\\xamarin.build.download.0.4.7.nupkg.sha512",
+    "C:\\Users\\Аленка\\.nuget\\packages\\xamarin.essentials\\1.0.1\\xamarin.essentials.1.0.1.nupkg.sha512",
+    "C:\\Users\\Аленка\\.nuget\\packages\\xamarin.forms\\3.4.0.1039999\\xamarin.forms.3.4.0.1039999.nupkg.sha512",
+    "C:\\Users\\Аленка\\.nuget\\packages\\xamarin.forms.googlemaps\\3.2.0\\xamarin.forms.googlemaps.3.2.0.nupkg.sha512",
+    "C:\\Users\\Аленка\\.nuget\\packages\\xamarin.google.ios.maps\\2.5.0\\xamarin.google.ios.maps.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
